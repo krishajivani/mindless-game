@@ -11,4 +11,4 @@ Objective: As purple circle (player) moves back and forth across screen, collect
 -Player can slow down the purple circle by pressing down on screen, and go back to normal speed by releasing.
 
 # UI
-<img width="250" alt="MainFR" src="https://user-images.githubusercontent.com/45325370/82722915-3f554d00-9c90-11ea-8973-242a0ffb488e.png">
+<img width="415" alt="Game Screen" src="https://user-images.githubusercontent.com/45325370/104794278-30b22d80-576c-11eb-9d32-cb13f88b6013.png">
